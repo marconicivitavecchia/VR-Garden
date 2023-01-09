@@ -7,4 +7,10 @@ A video showing the VR garden and real garden is available [here](https://drive.
 
 This project is also currently used in the project "[The School of Athens VR](https://the-school-of-athens-vr.com/)", also a work in progress of our school.
 
-
+## Credits
+The project was carried out by the following students of 4Cinf:
+-    [Alessio Incalcaterra](https://github.com/zTheSwordMan)
+-    [Davide Piccione](https://github.com/DavideSky)
+-    [Elias Simon Calvo](https://github.com/notPoll)
+-    [Filippo Taiani](https://github.com/Fthinker)
+-    [Francesco Gaggiano](https://github.com/Prinxino)
